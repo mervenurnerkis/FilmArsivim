@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmArsivim", "FilmArsivim\FilmArsivim.csproj", "{7DA4BF72-AA94-44B1-A9A5-AC0E9770FAA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DA4BF72-AA94-44B1-A9A5-AC0E9770FAA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA4BF72-AA94-44B1-A9A5-AC0E9770FAA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA4BF72-AA94-44B1-A9A5-AC0E9770FAA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA4BF72-AA94-44B1-A9A5-AC0E9770FAA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12E59C8E-67A3-44DF-B6C5-B9A0992C691E}
+	EndGlobalSection
+EndGlobal
